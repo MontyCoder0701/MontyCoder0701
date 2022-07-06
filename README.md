@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soojlee0106
 - 👀 I’m interested in blockchain backend development
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me soojlee0106@naver.com
 
