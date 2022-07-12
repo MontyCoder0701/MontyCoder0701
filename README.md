@@ -2,7 +2,9 @@
 - 👀 I’m interested in blockchain and AI development
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me soojlee0106@einsis.com
+- 📫 How to reach me 
+Personal: soojlee0106@naver.com
+Work: soojlee0106@einsis.com
 
 <!---
 soojlee0106/soojlee0106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
