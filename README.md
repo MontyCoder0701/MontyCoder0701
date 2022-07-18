@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soojlee0106
 - 👀 I’m interested in blockchain and AI development
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Personal: soojlee0106@naver.com
 / Work: soojlee0106@einsis.com
