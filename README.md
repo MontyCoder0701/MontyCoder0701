@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and AI development
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me 
-Personal: soojlee0106@naver.com
+/ Personal: soojlee0106@naver.com
 / Work: soojlee0106@einsis.com
 
 <!---
