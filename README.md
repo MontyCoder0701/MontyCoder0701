@@ -8,3 +8,6 @@
 ## Preview of my Repos 😊 (Click to see more)
 [Pocket Doc: Chatbot for mental issue coping mechanisms](https://github.com/soojlee0106/Pocket-Doc)
 ![screen4](https://user-images.githubusercontent.com/104475739/201041557-1616a9a5-1e7e-483d-ab00-bd041e97344b.JPG)
+
+[Fake News Detector: Simple ML code written in Python to detect whether a headline is clickbait.](https://github.com/soojlee0106/Fake-news-detector)
+![image](https://user-images.githubusercontent.com/104475739/201575746-46eaeda6-5ce7-41ac-a9fe-0ced0acea80d.png)
