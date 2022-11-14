@@ -11,4 +11,4 @@
 
 
 [Anti-Bait: ML program that detects whether an article is real or fake](https://github.com/soojlee0106/Anti-Bait)
-![image](https://user-images.githubusercontent.com/104475739/201613374-8e110e0b-697f-4a91-acb5-a57b429e4005.png)
+![image](https://user-images.githubusercontent.com/104475739/201785759-0a89c58f-cc3a-4d06-99f9-42248c11b6f8.png)
