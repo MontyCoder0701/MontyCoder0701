@@ -14,3 +14,6 @@
 
 [Pocket Flick: ML program that provides movie recommendations, based on plot similarity](https://github.com/soojlee0106/Pocket-Flick)
 ![image](https://user-images.githubusercontent.com/104475739/202358797-6ecaa69a-554a-4ef2-b026-5abb9c5e83e6.png)
+
+[Pocket Psych: ML program that psychoanalyzes given text](https://github.com/soojlee0106/Pocket-Psych)
+![image](https://user-images.githubusercontent.com/104475739/203075356-c8dab7e3-79f1-4d61-bff0-16f0f40c5471.png)
