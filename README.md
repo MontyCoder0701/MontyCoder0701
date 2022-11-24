@@ -11,6 +11,3 @@
 
 [Anti-Bait: ML program that detects whether an article is real or fake](https://github.com/soojlee0106/Anti-Bait)
 ![image](https://user-images.githubusercontent.com/104475739/201845707-413bc5d0-55d5-47fa-a2d5-d5ad9f84cc37.png)
-
-[Pocket Flick: ML program that provides movie recommendations, based on plot similarity](https://github.com/soojlee0106/Pocket-Flick)
-![image](https://user-images.githubusercontent.com/104475739/202358797-6ecaa69a-554a-4ef2-b026-5abb9c5e83e6.png)
