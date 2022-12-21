@@ -17,3 +17,6 @@
 
 [Anti-Bait: ML program that detects whether an article is real or fake](https://github.com/soojlee0106/Anti-Bait)
 ![image](https://user-images.githubusercontent.com/104475739/201845707-413bc5d0-55d5-47fa-a2d5-d5ad9f84cc37.png)
+
+[Web Crawler: For both static and dynamic crawling](https://github.com/soojlee0106/Web-crawler)
+![image](https://user-images.githubusercontent.com/104475739/208848970-190c5ba2-0406-402c-89b4-4c4c0765d498.png)
