@@ -7,8 +7,8 @@
 - Currently in SKT FLY AI program
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 [![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojlee0106)](https://github.com/soojlee0106/github-readme-stats)
 
