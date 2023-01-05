@@ -1,6 +1,7 @@
 # Welcome to my GitHub Profile! ✨
 
-[Check out my website here.](https://soo-portfolio.vercel.app/)
+[Check out my website here.](https://soo-portfolio.vercel.app/)  
+[Notion](https://www.notion.so/1a7ac72b4d9c41f9ab5c832f94abcf55)
 
 - Yonsei Uni Business
 - Einsis AI Lab Full Stack Dev
