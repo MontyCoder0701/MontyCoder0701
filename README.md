@@ -13,7 +13,7 @@ https://github.com/soojlee0106/Web-crawler
 https://github.com/soojlee0106/Anti-Bait  
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-https://github.com/soojlee0106/DjangoTodo  
+https://github.com/soojlee0106/DjangoExperiment  
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 https://github.com/soojlee0106/FlaskML  
