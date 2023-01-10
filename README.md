@@ -13,9 +13,9 @@ https://github.com/soojlee0106/Web-crawler
 https://github.com/soojlee0106/Anti-Bait  
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-https://github.com/soojlee0106/FlaskML 
-https://github.com/soojlee0106/Flask-API
-https://github.com/soojlee0106/SKT-Project
+https://github.com/soojlee0106/FlaskML   
+https://github.com/soojlee0106/Flask-API  
+https://github.com/soojlee0106/SKT-Project  
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 https://github.com/soojlee0106/Python-AI  
