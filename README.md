@@ -19,3 +19,7 @@ https://github.com/soojlee0106/SKT-Project
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 https://github.com/soojlee0106/Python-AI  
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+https://github.com/soojlee0106/MLMobile  
+https://github.com/soojlee0106/FashionApp  
