@@ -6,8 +6,6 @@
 - Einsis AI Lab Full Stack Dev
 - Currently in SKT FLY AI program
 
-[![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojlee0106)](https://github.com/soojlee0106/github-readme-stats)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 https://github.com/soojlee0106/Web-crawler  
 https://github.com/soojlee0106/Anti-Bait  
