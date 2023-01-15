@@ -9,7 +9,7 @@ https://github.com/soojlee0106/FlaskML
 https://github.com/soojlee0106/Flask-API  
 https://github.com/soojlee0106/SKT-Project  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 https://github.com/soojlee0106/FlaskML  
 https://github.com/soojlee0106/Pocket-Doc  
 
