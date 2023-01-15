@@ -1,7 +1,5 @@
 # Welcome to my GitHub Profile! ✨
 
-[Check out my website here.](https://soo-portfolio.vercel.app/)  
-
 - Yonsei Uni Business
 - Einsis AI Lab Full Stack Dev
 - Currently in SKT FLY AI program
