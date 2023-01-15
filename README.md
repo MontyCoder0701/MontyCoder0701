@@ -5,7 +5,6 @@
 - Currently in SKT FLY AI program
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-https://github.com/soojlee0106/FlaskML   
 https://github.com/soojlee0106/Flask-API  
 https://github.com/soojlee0106/SKT-Project  
 
