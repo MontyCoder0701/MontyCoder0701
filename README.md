@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! ✨  
 
-[👉 Link to Notion Page](https://www.notion.so/soojlee0106/59b3bc08148b49c681fe7f07bdfb030f)
+[👉 Link to Notion Page](https://soojlee0106.notion.site/68594fda96f4486687d377ff64612256)
 
 - Yonsei Uni Business
 - Einsis AI Lab Full Stack Dev
