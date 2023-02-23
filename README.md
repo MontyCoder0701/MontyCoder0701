@@ -2,7 +2,8 @@
 
 [👉 Link to Notion Page](https://soojlee0106.notion.site/68594fda96f4486687d377ff64612256)
 
-- Yonsei Uni Business, Cyber University of Korea Software
+- Yonsei Uni Business. 
+- Cyber University of Korea Software Engineering  
 - Einsis AI Lab Full Stack Dev
 - Currently in SKT FLY AI program
 
