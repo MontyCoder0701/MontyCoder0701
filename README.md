@@ -1,6 +1,7 @@
 # Welcome to my GitHub Profile! ✨  
 
-[👉 Link to Notion Page](https://soojlee0106.notion.site/68594fda96f4486687d377ff64612256)
+[👉 Link to Notion Page](https://soojlee0106.notion.site/Soojeong-Lee-ee1f68821c6c46d9abf1bb85739e485a)
+
 
 - Yonsei Uni Business. 
 - Cyber University of Korea Software Engineering  
