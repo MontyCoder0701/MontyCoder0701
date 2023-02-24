@@ -1,6 +1,7 @@
 # Welcome to my GitHub Profile! ✨  
 
-[👉 Link to Notion Page](https://soojlee0106.notion.site/Soojeong-Lee-ee1f68821c6c46d9abf1bb85739e485a)
+[👉 Link to Notion Page](https://soojlee0106.notion.site/Soojeong-Lee-ee1f68821c6c46d9abf1bb85739e485a)  
+[👉 한국어 버전](https://soojlee0106.notion.site/c9e59b93caa94f99b47fb0977a28bc9b)
 
 
 - Yonsei Uni Business. 
