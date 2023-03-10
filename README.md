@@ -8,7 +8,7 @@
 - Cyber University of Korea Software Engineering  
 - Einsis AI Lab Full Stack Dev
 - SKT FLY AI program
-- NHN Crossent Frontend Dev
+- NHN Crossent Portal Dev
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
