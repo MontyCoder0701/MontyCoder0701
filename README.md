@@ -3,11 +3,13 @@
 [👉 Link to Notion Page](https://soojlee0106.notion.site/Soojeong-Lee-ee1f68821c6c46d9abf1bb85739e485a)  
 [👉 한국어 버전](https://soojlee0106.notion.site/c9e59b93caa94f99b47fb0977a28bc9b)
 
-
-- Yonsei Uni Business. 
-- Cyber University of Korea Software Engineering  
+What I did:  
+- Yonsei Uni Business 
 - Einsis AI Lab Full Stack Dev
 - SKT FLY AI program
+
+What's Up Now:  
+- Cyber University of Korea Software Engineering  
 - NHN Crossent Portal Dev
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
