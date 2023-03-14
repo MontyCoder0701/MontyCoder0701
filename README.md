@@ -23,4 +23,3 @@ What's Up Now:
 
 ## What else I do
 [👉 Link to Art Portfolio Page](https://soojlee0106.notion.site/Art-Portfolio-f4c3d548092d4089957873a9d6a833a8)  
-[👉 Personal journal](https://soojlee0106.notion.site/fba1adf92c4c462dbeec1432e72132ec?v=1834dcef4b194eff9368ee91bb664882)
