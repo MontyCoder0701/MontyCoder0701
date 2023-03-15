@@ -9,6 +9,7 @@ What I did:
 - SKT FLY AI program
 
 What's Up Now:  
+- DevthanAI Dev
 - Cyber University of Korea Software Engineering  
 - Samjung Data Service R&D Dev  
 
