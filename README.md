@@ -2,11 +2,10 @@
 
 ## My Stats
 ![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=montycoder0701&show_icons=true&theme=transparent)  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soolee0701)](https://solved.ac/soolee0701)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=montycoder0701)](https://velog.io/@montycoder0701) 
 
 
 ## My Open Source Project (Click to find out)
