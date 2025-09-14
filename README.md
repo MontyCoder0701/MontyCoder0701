@@ -6,4 +6,3 @@
 
 ## Records
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soojlee0701)
-[![Medium](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](https://soojeong-software.framer.website)
